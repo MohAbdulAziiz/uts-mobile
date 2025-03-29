@@ -19,7 +19,6 @@ import {
 } from "react-icons/fa";
 import dynamic from "next/dynamic";
 import { motion } from "framer-motion";
-import Header from "../components/header";
 import "leaflet/dist/leaflet.css";
 import { addComment, getComments } from "../lib/db";
 import { db } from "../lib/db"; 
