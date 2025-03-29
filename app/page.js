@@ -319,7 +319,7 @@ function AboutMe() {
       transition={{ duration: 0.8, delay: 0.5 }}
       className="text-center mt-4"
     >
-      <h2 className="text-lg md:text-xl font-bold">Aziz Maulana</h2>
+      <h2 className="text-lg md:text-xl font-bold">MOH. ABDUL AZIZ</h2>
       <p className="text-xs md:text-sm">Universitas Ma'soem</p>
     </motion.div>
   </div>
